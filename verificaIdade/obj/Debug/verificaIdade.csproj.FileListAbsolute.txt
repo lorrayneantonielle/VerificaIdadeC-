@@ -1,0 +1,7 @@
+C:\Users\MLB\source\repos\verificaIdade\verificaIdade\bin\Debug\verificaIdade.exe.config
+C:\Users\MLB\source\repos\verificaIdade\verificaIdade\bin\Debug\verificaIdade.exe
+C:\Users\MLB\source\repos\verificaIdade\verificaIdade\bin\Debug\verificaIdade.pdb
+C:\Users\MLB\source\repos\verificaIdade\verificaIdade\obj\Debug\verificaIdade.csproj.AssemblyReference.cache
+C:\Users\MLB\source\repos\verificaIdade\verificaIdade\obj\Debug\verificaIdade.csproj.CoreCompileInputs.cache
+C:\Users\MLB\source\repos\verificaIdade\verificaIdade\obj\Debug\verificaIdade.exe
+C:\Users\MLB\source\repos\verificaIdade\verificaIdade\obj\Debug\verificaIdade.pdb
